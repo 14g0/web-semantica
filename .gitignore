@@ -1,4 +1,6 @@
-gtfs-rio-de-janeiro/
+assets/gtfs-rio-de-janeiro/
 WebSemantica.pdf
 *.png
 *.gif
+*.ttl
+__pycache__/
